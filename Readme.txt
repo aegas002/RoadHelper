@@ -7,4 +7,4 @@ The laser light source is subjected to multiple times of reflection until it rea
 windshield has a semipermeable reflection membrane which is located anywhere the driver places it. 
 
 Currently designing projection board, reflection ratios, casing, and logic. 
-#***Hoping for a working prototype by mid July 2019***</i></b>
+***Hoping for a working prototype by mid July 2019***
